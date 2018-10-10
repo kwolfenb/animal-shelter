@@ -1,10 +1,17 @@
+body{
+  background-color: #a3a3a3;
+}
 .top{
   text-align: center;
 }
 .column {
-  width: 33%;
+  width: 25%;
   float: left;
   color:black;
+  border: 2px solid blue;
+  padding: 1%;
+  margin: 1%;
+  background-color: yellow;
 }
 
 .intro{
