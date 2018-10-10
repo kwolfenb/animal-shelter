@@ -1,0 +1,23 @@
+.top{
+  text-align: center;
+}
+.column {
+  width: 33%;
+  float: left;
+  color:black;
+}
+
+.intro{
+  font-size:150%;
+  font-style: italic;
+}
+.column h4 {
+  color: red;
+}
+.column h3{
+  color: blue;
+}
+.column h3 a{
+  font-style:italic;
+  color: green;
+}
